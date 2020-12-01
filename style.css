@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui;
+  background-color:#1B658B;
+  color: 1B658B;
+  text-align: center;
+}
+.destacado{
+  font-family:"Arial";
+  font-style:regular;
+  font-size: 30 px;
+  color:#DDAF23;
+  
+  }
